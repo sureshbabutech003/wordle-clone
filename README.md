@@ -1,3 +1,32 @@
+# Wordle Clone
+
+A simple Wordle Clone built using React.js.
+
+## 🚀 Features
+- Guess the 5-letter word in 6 attempts.
+- Feedback on correct/wrong letters.
+- Light/Dark Mode.
+- Fully responsive on mobile, tablet, and desktop.
+
+## 📦 Installation
+
+1. Clone the repository:
+   git clone https://github.com/YOUR_GITHUB_USERNAME/wordle-clone.git
+2. Navigate into the project folder:
+   cd wordle-clone
+3. Install dependencies:
+   npm install
+4. Run the project:
+   npm start
+   
+## 🛠️ Technologies Used
+- React.js
+- Tailwind CSS
+- Bootstrap
+
+## 📜 License
+This project is licensed under the MIT License.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
